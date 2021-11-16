@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "321876c7-f4e8-cab8-173c-d2af1e28554d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "City to City: Comparing, Researching and Writing about Cities",
+  "course_description": "This course introduces undergraduate planning students to the role of the planner in researching issues in cities both in the United States and abroad. This course is a practical, hands-on workshop that challenges students to research, write and present their ideas on two different cities: A U.S. City (preferably somewhere close) and Copenhagen. Students will be equipped to:\n\n1.  select and research a thesis topic,\n2.  work professionally with faculty and other experts on the topic of their choice, and\n3.  research, write and present.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.027",
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Notes",
+    "Activity Assignments",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
